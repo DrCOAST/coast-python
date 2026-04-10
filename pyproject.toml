@@ -1,0 +1,5 @@
+[project]
+name = "coast-measure"
+version = "0.1.0"
+description = "Python foundation for measurement, detection and data-driven technologies"
+requires-python = ">=3.11"
