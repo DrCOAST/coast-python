@@ -1,2 +1,2 @@
 # coast-python
-This repository provides an accessible Python foundation for the science of measurement, detection, and data-driven technologies within COAST. It supports reproducible data analysis, practical workflows, and skill development, enabling professionals to work effectively with analytical and sensor data.
+This COAST (**Co**mprehensive **A**nalytical **S**ciences & **T**echnology) repository provides an accessible Python foundation for the sciences of measurement, detection, and data-driven technologies. It supports reproducible data analysis, practical workflows, and skill development, enabling professionals to work effectively with analytical and sensor data.
