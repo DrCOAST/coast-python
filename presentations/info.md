@@ -1,1 +1,1 @@
-This COAST (Comprehensive Analytical Sciences & Technology) repository provides an accessible Python foundation for the sciences of measurement, detection, and data-driven technologies. It supports reproducible data analysis, practical workflows, and skill development, enabling professionals to work effectively with analytical and sensor data.
+This folder contains PowerPoint presentations from the COAST workshop "Introduction to Machine Learning using Python for (Analytical) Chemists" which was held on May 19, 2026.
